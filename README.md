@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexEgorov17
 - 👀 I’m interested in gamedev, web
 - 🌱 I’m currently learning GOLang
-- 📫 telegram @alexhype
+- 📫 Telegram @alexhype
 
 <!---
 AlexEgorov17/AlexEgorov17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
